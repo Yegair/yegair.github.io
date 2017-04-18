@@ -1,3 +1,3 @@
-# Yegair
-
-Welcome to my site...
+---
+layout: home
+---
