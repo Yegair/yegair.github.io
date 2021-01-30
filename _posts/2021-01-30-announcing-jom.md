@@ -2,7 +2,6 @@
 layout: post
 title:  "jom - a parser combinator library for the JVM"
 date:   2021-01-30 14:26:00 +0100
-categories: jom
 ---
 
 When I learn new programming languages I always need to do so in the scope of some little project,
