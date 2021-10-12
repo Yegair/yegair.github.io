@@ -1,8 +1,9 @@
 ---
-layout: post
-title:  "jom - a parser combinator library for the JVM"
-date:   2021-01-30 14:26:00 +0100
+title:  jom - a parser combinator library for the JVM
+date:   2021-01-30T14:26:00.000+0100
 ---
+
+# jom - a parser combinator library for the JVM
 
 When I learn new programming languages I always need to do so in the scope of some little project,
 so I can get a glimpse of what it would be like to use the language for building software at work.
