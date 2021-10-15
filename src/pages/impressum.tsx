@@ -10,7 +10,7 @@ export default function PrivacyPage() {
     return (
         <PageLayout>
             <Head>
-                <title>snippidy | Impressum</title>
+                <title>yegair.io | Impressum</title>
             </Head>
             <Header />
             <Main className="mt-16">
